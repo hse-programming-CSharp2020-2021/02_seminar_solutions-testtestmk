@@ -25,7 +25,7 @@ namespace Task01
             int z = int.Parse(Console.ReadLine());
             // ввести y, z
 
-            string answer = (x > y + z) && (y > x + z) && (z > x + y) ? "yes" : "no";
+            string answer = (x > y + z) && (y > x + z) && (z > x + y) ? "неравенство выполняется" : "неравенство не выполняется";
 
             Console.WriteLine(answer);
         }
