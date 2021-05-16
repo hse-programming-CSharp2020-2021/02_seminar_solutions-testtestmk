@@ -21,9 +21,11 @@ namespace Task01
         public static void Main(string[] args)
         {
             int x = int.Parse(Console.ReadLine());
+            int y = int.Parse(Console.ReadLine());
+            int z = int.Parse(Console.ReadLine());
             // ввести y, z
 
-            string answer = // написать тернарную операцию
+            string answer = (x > y + z) && (y > x + z) && (z > x + y) ? "yes" : "no";
 
             Console.WriteLine(answer);
         }
