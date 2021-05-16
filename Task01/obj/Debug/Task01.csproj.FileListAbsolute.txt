@@ -1,0 +1,6 @@
+/Users/mgordenko/Projects/02sem_hw_solution/Task01/bin/Debug/Task01.exe
+/Users/mgordenko/Projects/02sem_hw_solution/Task01/bin/Debug/Task01.pdb
+/Users/mgordenko/Projects/02sem_hw_solution/Task01/obj/Debug/Task01.csprojAssemblyReference.cache
+/Users/mgordenko/Projects/02sem_hw_solution/Task01/obj/Debug/Task01.csproj.CoreCompileInputs.cache
+/Users/mgordenko/Projects/02sem_hw_solution/Task01/obj/Debug/Task01.exe
+/Users/mgordenko/Projects/02sem_hw_solution/Task01/obj/Debug/Task01.pdb
